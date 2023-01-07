@@ -1,4 +1,19 @@
 # Steam deck games fixes
+
+[![image](https://user-images.githubusercontent.com/5399780/211128121-c51be3b6-3b02-4acb-8be6-2cb12afc00ea.png)
+](https://github-com.translate.goog/eregnier/steam-deck-games-fixes?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=fr&_x_tr_pto=wapp)
+
+[![image](https://user-images.githubusercontent.com/5399780/211128139-41f71c46-501b-4d4f-b7ab-77b2d628db14.png)
+](https://github-com.translate.goog/eregnier/steam-deck-games-fixes?_x_tr_sl=auto&_x_tr_tl=zh-CN&_x_tr_hl=fr&_x_tr_pto=wapp)
+
+ [![image](https://user-images.githubusercontent.com/5399780/211128163-2498e8e6-26f3-4036-a33f-2d1e28e37ed6.png)](https://github-com.translate.goog/eregnier/steam-deck-games-fixes?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp)
+
+[![image](https://user-images.githubusercontent.com/5399780/211128182-714f9c8a-083f-47c3-83d2-ef1819c35cd7.png)
+](https://github-com.translate.goog/eregnier/steam-deck-games-fixes?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=fr&_x_tr_pto=wapp)
+
+[![image](https://user-images.githubusercontent.com/5399780/211128230-0a863e99-6a0e-4a7d-93c2-8aa42cc134f0.png)
+](https://github.com/eregnier/steam-deck-games-fixes)
+
 This is a wiki / documentation repository to reference all tips to make games work properly on steam decks
 
 Please see [how to contribute](contribution.md) to add your own tricks to this guide
