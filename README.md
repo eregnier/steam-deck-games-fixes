@@ -13,11 +13,11 @@ The trick list might be long, you can use your browser search feature CTRL+F to 
 
 Problem :
 
-The game displays a black screen
+ - The game displays a black screen
 
 Solution : 
 
-Add variable environement in game options in heroic launcher (see video) where variable name is `FNA3D_FORCE_DRIVER` and value is `OpenGL` (don't forget to click on + / add button)
+ - Add variable environement in game options in heroic launcher (see video) where variable name is `FNA3D_FORCE_DRIVER` and value is `OpenGL` (don't forget to click on + / add button)
 
 
 ### Sonic mania - Heroic launcher
@@ -26,11 +26,9 @@ Add variable environement in game options in heroic launcher (see video) where v
 
 Problem : 
 
-The game run in windowed mode. When I set full screen from option menu, then the game displays a black screen.
+ - The game run in windowed mode. When I set full screen from option menu, then the game displays a black screen.
 
 Solution :
 
-When game is not running
-Edit file located at `/home/deck/Games/Heroic/Prefixes/Sonic Mania/pfx/drive_c/users/steamuser/AppData/Local/Sega/SonicMania/Settings.ini`
-replace `windowed=y` => `windowed=n`
-and `exclusiveFS=n` => `exclusiveFS=y` (this is a text file you can edit from steam deck desktop mode and just save once done)
+ - When game is not running edit file located at `/home/deck/Games/Heroic/Prefixes/Sonic Mania/pfx/drive_c/users/steamuser/AppData/Local/Sega/SonicMania/Settings.ini`
+replace `windowed=y` => `windowed=n` and `exclusiveFS=n` => `exclusiveFS=y` (this is a text file you can edit from steam deck desktop mode and just save once done)
