@@ -1,8 +1,8 @@
 You can share your fix either with 
- * A pull request (developper way)
- * By filling an issue (other people > button issues above > new > copy paste the template below and replace content accordingly)
+ * A [pull request](https://github.com/eregnier/steam-deck-games-fixes/pulls) (developper way)
+ * By [filling an issue](https://github.com/eregnier/steam-deck-games-fixes/issues) (other people > button issues above > new > copy paste the template below and replace content accordingly)
 
-Please follow the template bellow to makes it simpler to me to integrate with existing work.
+Please follow the template bellow to makes it simpler to me to integrate with existing work. Please write contributions in english if possible.
 
 ### Game name - Platform name
 
