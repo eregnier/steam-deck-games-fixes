@@ -15,7 +15,7 @@ Please follow the template bellow to makes it simpler to me to integrate with ex
 
 Problem :
 
-Describe the problem in a concise way to **let folks easily identify** if they have the same issue
+ - Describe the problem in a concise way to **let folks easily identify** if they have the same issue
 
 Solution :
 
