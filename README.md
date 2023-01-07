@@ -33,4 +33,4 @@ Solution :
 When game is not running
 Edit file located at `/home/deck/Games/Heroic/Prefixes/Sonic Mania/pfx/drive_c/users/steamuser/AppData/Local/Sega/SonicMania/Settings.ini`
 replace `windowed=y` => `windowed=n`
-and `exclusiveFS=n` => `exclusiveFS=y`
+and `exclusiveFS=n` => `exclusiveFS=y` (this is a text file you can edit from steam deck desktop mode and just save once done)
